@@ -8,7 +8,6 @@ public class SpringUdemy1Application {
 
     public static void main(String[] args) {
         SpringApplication.run(SpringUdemy1Application.class, args);
-        System.out.println("this");
     }
 
 }
